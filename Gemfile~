@@ -32,7 +32,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # MongoDB ODM
-gem 'mongoid', '~> 6.2.0'
+gem 'mongoid' '~> 6.2.0'
 
 
 group :development, :test do
